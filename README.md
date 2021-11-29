@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="IntelliJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />]
+[<img align="left" alt="IntelliJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />][https://www.jetbrains.com/idea/]
 
 
 <br />
