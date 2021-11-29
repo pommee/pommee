@@ -19,17 +19,5 @@
 <br />
 
 
----
-
-
-[website]: https://hugosig.com/
-[linkedin]: https://www.linkedin.com/in/hugo-sigurdson-097a9b177/" />]
-
-<br />
-<br />
-
-
----
-
 [website]: https://hugosig.com/
 [linkedin]: https://www.linkedin.com/in/hugo-sigurdson-097a9b177/
