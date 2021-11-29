@@ -6,13 +6,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hugoSigu | LinkedIn" width="22px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />][linkedin]
+[<img align="left" alt="hugoSigu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="IntelliJ" width="26px" src="https://www.jetbrains.com/" />]
+[<img align="left" alt="IntelliJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />]
 
 
 <br />
